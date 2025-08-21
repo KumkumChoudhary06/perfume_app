@@ -11,4 +11,4 @@ You can select fragrance notes from dropdowns and discover perfumes that match y
 - Clear search with the **Reset button**
 - Responsive and clean UI
 
-![App Screenshot](images/Screenshot.png)
+![App Screenshot](Screenshot.png)
