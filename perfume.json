@@ -1,0 +1,82 @@
+[
+  {
+    "name": "La Vie Est Belle by Lancôme",
+    "description": "A sweet, floral fragrance that captures elegance and joy.",
+    "top": ["Blackcurrant", "Pear"],
+    "middle": ["Iris", "Jasmine", "Orange Blossom"],
+    "base": ["Vanilla", "Praline", "Tonka Bean", "Patchouli"],
+    "image": "image/perfume1.jpg"
+  },
+  {
+    "name": "J'adore by Dior",
+    "description": "A sophisticated floral bouquet with radiant charm.",
+    "top": ["Bergamot", "Mandarin"],
+    "middle": ["Rose", "Jasmine"],
+    "base": ["Vanilla", "Musk"],
+    "image": "image/perfume2.jpg"
+  },
+  {
+    "name": "Libre by Yves Saint Laurent",
+    "description": "A bold floral fragrance with lavender and orange blossom.",
+    "top": ["Mandarin", "Blackcurrant"],
+    "middle": ["Lavender", "Orange Blossom"],
+    "base": ["Vanilla", "Ambergris"],
+    "image": "image/perfume3.jpg"
+  },
+  {
+    "name": "Chanel No. 5 by Chanel",
+    "description": "The iconic floral-aldehydic fragrance that defines timeless elegance.",
+    "top": ["Aldehydes", "Neroli", "Ylang-Ylang"],
+    "middle": ["Jasmine", "Rose", "Lily of the Valley"],
+    "base": ["Sandalwood", "Vanilla", "Vetiver", "Musk"],
+    "image": "image/perfume4.jpg"
+  },
+  {
+    "name": "Coco Mademoiselle by Chanel",
+    "description": "A fresh, modern scent with citrus and warm patchouli.",
+    "top": ["Orange", "Mandarin", "Orange Blossom"],
+    "middle": ["Turkish Rose", "Jasmine", "Ylang-Ylang"],
+    "base": ["Patchouli", "Vetiver", "Vanilla", "Musk"],
+    "image": "image/perfume5.jpg"
+  },
+  {
+    "name": "Daisy by Marc Jacobs",
+    "description": "A youthful, playful fragrance with fruity and floral notes.",
+    "top": ["Strawberry", "Violet Leaf", "Blood Grapefruit"],
+    "middle": ["Jasmine", "Violet", "Gardenia"],
+    "base": ["White Woods", "Musk", "Vanilla"],
+    "image": "image/perfume6.jpg"
+  },
+  {
+    "name": "Black Opium by Yves Saint Laurent",
+    "description": "An addictive gourmand floral fragrance with coffee and vanilla.",
+    "top": ["Pink Pepper", "Orange Blossom", "Pear"],
+    "middle": ["Coffee", "Jasmine", "Bitter Almond"],
+    "base": ["Vanilla", "Cedarwood", "Patchouli"],
+    "image": "image/perfume7.jpg"
+  },
+  {
+    "name": "Light Blue by Dolce & Gabbana",
+    "description": "A refreshing fruity floral scent inspired by Mediterranean summers.",
+    "top": ["Sicilian Lemon", "Apple", "Cedar"],
+    "middle": ["Bamboo", "Jasmine", "White Rose"],
+    "base": ["Cedarwood", "Amber", "Musk"],
+    "image": "image/perfume8.jpg"
+  },
+  {
+    "name": "Good Girl by Carolina Herrera",
+    "description": "A bold and feminine fragrance with contrasting dark and light notes.",
+    "top": ["Almond", "Coffee"],
+    "middle": ["Jasmine Sambac", "Tuberose"],
+    "base": ["Tonka Bean", "Cocoa", "Vanilla"],
+    "image": "image/perfume9.jpg"
+  },
+  {
+    "name": "Flowerbomb by Viktor & Rolf",
+    "description": "An explosive floral bouquet that leaves a lasting impression.",
+    "top": ["Bergamot", "Tea"],
+    "middle": ["Orchid", "Freesia", "Jasmine", "Rose"],
+    "base": ["Patchouli", "Musk"],
+    "image": "image/perfume10.jpg"
+  }
+]

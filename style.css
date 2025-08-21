@@ -1,0 +1,79 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  background-color: #fefcfb;
+  color: #333;
+}
+
+header {
+  background-color: #f6e9e9;
+  text-align: center;
+  padding: 2rem;
+  border-bottom: 2px solid #ccc;
+}
+
+.filters {
+  text-align: center;
+  padding: 1.5rem;
+  background: #fff3f3;
+}
+
+.filters label {
+  margin: 0 0.5rem;
+  font-weight: bold;
+}
+
+.filters select, .filters button {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+button {
+  background: #ff99cc;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ff66b2;
+}
+
+.results {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.perfume-card {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  margin: 1rem;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.2s ease;
+}
+
+.perfume-card:hover {
+  transform: scale(1.05);
+}
+
+.perfume-card img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+
+.perfume-info {
+  padding: 1rem;
+}
+
+.perfume-info h2 {
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+}
